@@ -33,7 +33,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uxdhWMb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 1: The first step is all about getting introduced, so create your Azure account and get logged in then observe the Azure portal and all of it's properties.
@@ -41,7 +41,7 @@ Step 1: The first step is all about getting introduced, so create your Azure acc
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/veMyVgm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 2: Within the Azure Portal, create a Resource Group. Then create a Storage Account within the Resource Group we created. After that you'll want to open a text file on your local desktop.
@@ -49,7 +49,7 @@ Step 2: Within the Azure Portal, create a Resource Group. Then create a Storage 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PG47imc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 3: Upload the text file you created to the Azure Storage Account. Once you've doen that, edit the file within the Storage Account (within the Azure Portal). Download the file Open the file and observe the changes.
